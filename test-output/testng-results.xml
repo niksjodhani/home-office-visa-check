@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regression Suite" duration-ms="13534" started-at="2022-05-09T15:18:38 BST" finished-at="2022-05-09T15:18:51 BST">
+    <groups>
+      <group name="regression">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- smoke -->
+      <group name="regression1">
+        <method signature="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- regression1 -->
+      <group name="sanity">
+        <method signature="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+        <method signature="VisaConfirmationTest.anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="anAustralianComingToUKForTourism" class="gov.uk.check.visa.testsuite.VisaConfirmationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="regression1" duration-ms="13534" started-at="2022-05-09T15:18:38 BST" finished-at="2022-05-09T15:18:51 BST">
+      <class name="gov.uk.check.visa.testsuite.VisaConfirmationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="setUp" is-config="true" duration-ms="4016" started-at="2022-05-09T15:18:38 BST" finished-at="2022-05-09T15:18:42 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIT()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="inIT" is-config="true" duration-ms="50" started-at="2022-05-09T15:18:42 BST" finished-at="2022-05-09T15:18:42 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIT -->
+        <test-method status="PASS" signature="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" duration-ms="1634" started-at="2022-05-09T15:18:42 BST" finished-at="2022-05-09T15:18:44 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="tearDown" is-config="true" duration-ms="702" started-at="2022-05-09T15:18:44 BST" finished-at="2022-05-09T15:18:44 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="setUp" is-config="true" duration-ms="1770" started-at="2022-05-09T15:18:44 BST" finished-at="2022-05-09T15:18:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIT()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="inIT" is-config="true" duration-ms="2" started-at="2022-05-09T15:18:46 BST" finished-at="2022-05-09T15:18:46 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIT -->
+        <test-method status="PASS" signature="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" duration-ms="966" started-at="2022-05-09T15:18:46 BST" finished-at="2022-05-09T15:18:47 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="tearDown" is-config="true" duration-ms="700" started-at="2022-05-09T15:18:47 BST" finished-at="2022-05-09T15:18:48 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="setUp" is-config="true" duration-ms="1731" started-at="2022-05-09T15:18:48 BST" finished-at="2022-05-09T15:18:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIT()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="inIT" is-config="true" duration-ms="4" started-at="2022-05-09T15:18:50 BST" finished-at="2022-05-09T15:18:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIT -->
+        <test-method status="PASS" signature="anAustralianComingToUKForTourism()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="anAustralianComingToUKForTourism" duration-ms="910" started-at="2022-05-09T15:18:50 BST" finished-at="2022-05-09T15:18:51 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anAustralianComingToUKForTourism -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gov.uk.check.visa.testsuite.VisaConfirmationTest@a74868d]" name="tearDown" is-config="true" duration-ms="697" started-at="2022-05-09T15:18:51 BST" finished-at="2022-05-09T15:18:51 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gov.uk.check.visa.testsuite.VisaConfirmationTest -->
+    </test> <!-- regression1 -->
+  </suite> <!-- regression Suite -->
+</testng-results>
